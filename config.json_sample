@@ -1,0 +1,8 @@
+{
+    "inputs": [
+        "./testdata/subj01/cortexmap",
+        "./testdata/subj02/cortexmap",
+        "./testdata/subj03/cortexmap"
+    ],
+	"threshold":	0.5
+}
